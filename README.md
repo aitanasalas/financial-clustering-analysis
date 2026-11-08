@@ -1,6 +1,6 @@
 # Cluster Analysis on Company Financials
 
-**Machine Learning in Finance | University of Deusto | May 2025**
+**Machine Learning in Finance – University of Deusto**
 
 ## About the Project
 
